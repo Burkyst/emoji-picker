@@ -10,7 +10,7 @@ No Browser extensions available. You can either run it manually, clicking the bo
 
 **Select the text below, and drag it to your bookmarks** 	 
 ```javascript
-javascript:(function(){$.getScript("//rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.min.js")})();
+javascript:(function(){$.getScript("https://raw.githack.com/Burkyst/emoji-picker/master/dist/emoji-picker.min.js")})();
 ```
 
 **Or click to install it as an [Userscript](https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js "emoji-picker")**
